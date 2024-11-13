@@ -1,0 +1,53 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name":"China",
+        "gold":40,
+        "silver":27,
+        "bronze":24,
+        "information":"the People's Republic of China (the People's Republic of China), referred to as China, was founded on October 1, 1949"
+      },
+      {
+        "id": 2,
+       "name":"America",
+        "gold":40,
+        "silver":44,
+        "bronze":42,
+        "information":"The United States of America ( The United States ) is the capital city of Washington, D.C."
+      },
+      {
+        "id": 3,
+        "name":"Japan",
+        "gold":20,
+        "silver":12,
+        "bronze":13,
+        "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest"
+      },
+      {
+        "id": 4,
+        "name":"Australia",
+        "gold":18,
+        "silver":19,
+        "bronze":16,
+        "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra"
+      },
+      {
+        "id": 5,
+        "name":"France", 
+        "gold":16,
+        "silver":26,
+        "bronze":22, 
+        "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe"
+      },
+      {
+        "id": 6,
+        "name":"Netherlands",
+        "gold":15,
+        "silver":7,
+        "bronze":12, 
+        "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam."
+      }
+      
+    ] 
+  }
