@@ -25,18 +25,8 @@
       "gold":40,
       "silver":44,
       "bronze":42,
-      "information":"The United States of America ( The United States ) is the capital city of Washington, D.C.",
-      "sports":[
-        {
-          "id": 1,
-          "name": "Swimming",
-          "gold": 10,
-          "silver": 8,
-          "bronze": 6,
-          "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
-          "medals": 24
-        }
-      ]
+      "information":"The United States of America ( The United States ) is the capital city of Washington, D.C."
+     
     },
     {
       "id": 3,
@@ -44,18 +34,8 @@
       "gold":20,
       "silver":12,
       "bronze":13,
-      "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest",
-      "sports":[
-        {
-          "id": 1,
-          "name": "Swimming",
-          "gold": 10,
-          "silver": 8,
-          "bronze": 6,
-          "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
-          "medals": 24
-        }
-      ]
+      "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest"
+     
     },
     {
       "id": 4,
@@ -63,18 +43,8 @@
       "gold":18,
       "silver":19,
       "bronze":16,
-      "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra",
-      "sports":[
-        {
-          "id": 1,
-          "name": "Swimming",
-          "gold": 10,
-          "silver": 8,
-          "bronze": 6,
-          "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
-          "medals": 24
-        }
-      ]
+      "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra"
+    
     },
     {
       "id": 5,
@@ -82,18 +52,8 @@
       "gold":16,
       "silver":26,
       "bronze":22, 
-      "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe",
-      "sports":[
-        {
-          "id": 1,
-          "name": "Swimming",
-          "gold": 10,
-          "silver": 8,
-          "bronze": 6,
-          "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
-          "medals": 24
-        }
-      ]
+      "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe"
+   
     },
     {
       "id": 6,
@@ -101,19 +61,8 @@
       "gold":15,
       "silver":7,
       "bronze":12, 
-      "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam.",
-      "sports":[
-        {
-          "id": 1,
-          "name": "Swimming",
-          "gold": 10,
-          "silver": 8,
-          "bronze": 6,
-          "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
-          "medals": 24
-        }
-      ]
-    }
+      "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam."
+   
     
   ] ,
    "sports": [
