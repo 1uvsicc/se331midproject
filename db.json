@@ -6,7 +6,18 @@
         "gold":40,
         "silver":27,
         "bronze":24,
-        "information":"the People's Republic of China (the People's Republic of China), referred to as China, was founded on October 1, 1949"
+        "information":"the People's Republic of China (the People's Republic of China), referred to as China, was founded on October 1, 1949",
+              "sport":
+        {
+          "id": 1,
+          "name": "Swimming",
+          "gold": 10,
+          "silver": 8,
+          "bronze": 6,
+          "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
+          "medals": 24
+        }
+
       },
       {
         "id": 2,
