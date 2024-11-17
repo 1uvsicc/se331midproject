@@ -25,7 +25,7 @@
         "gold":40,
         "silver":44,
         "bronze":42,
-        "information":"The United States of America ( The United States ) is the capital city of Washington, D.C."，
+        "information":"The United States of America ( The United States ) is the capital city of Washington, D.C.",
             "sport":
         {
          "id": 2,
@@ -43,7 +43,7 @@
         "gold":20,
         "silver":12,
         "bronze":13,
-        "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest"，
+        "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest",
              "sport":
         {
         "id": 3,
@@ -61,7 +61,7 @@
         "gold":18,
         "silver":19,
         "bronze":16,
-        "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra"，
+        "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra",
             "sport":
         {
        "id": 4,
@@ -79,7 +79,7 @@
         "gold":16,
         "silver":26,
         "bronze":22, 
-        "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe"，
+        "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe",
                "sport":
         {
         "id": 5,
@@ -97,7 +97,7 @@
         "gold":15,
         "silver":7,
         "bronze":12, 
-        "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam."，
+        "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam.",
             "sport":
         {
          "id": 6,
