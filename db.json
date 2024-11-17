@@ -1,13 +1,13 @@
 {
-    "countries": [
-      {
-        "id": 1,
-        "name":"China",
-        "gold":40,
-        "silver":27,
-        "bronze":24,
-        "information":"the People's Republic of China (the People's Republic of China), referred to as China, was founded on October 1, 1949",
-           "sport":
+  "countries": [
+    {
+      "id": 1,
+      "name":"China",
+      "gold":40,
+      "silver":27,
+      "bronze":24,
+      "information":"the People's Republic of China (the People's Republic of China), referred to as China, was founded on October 1, 1949",
+      "sports":[
         {
           "id": 1,
           "name": "Swimming",
@@ -17,90 +17,103 @@
           "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
           "medals": 24
         }
-      
-      },
-      {
-        "id": 2,
-       "name":"America",
-        "gold":40,
-        "silver":44,
-        "bronze":42,
-        "information":"The United States of America ( The United States ) is the capital city of Washington, D.C.",
-            "sport":
-        {
-         "id": 2,
+      ]
+    },
+    {
+      "id": 2,
+     "name":"America",
+      "gold":40,
+      "silver":44,
+      "bronze":42,
+      "information":"The United States of America ( The United States ) is the capital city of Washington, D.C."
+    },
+    {
+      "id": 3,
+      "name":"Japan",
+      "gold":20,
+      "silver":12,
+      "bronze":13,
+      "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest"
+    },
+    {
+      "id": 4,
+      "name":"Australia",
+      "gold":18,
+      "silver":19,
+      "bronze":16,
+      "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra"
+    },
+    {
+      "id": 5,
+      "name":"France", 
+      "gold":16,
+      "silver":26,
+      "bronze":22, 
+      "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe"
+    },
+    {
+      "id": 6,
+      "name":"Netherlands",
+      "gold":15,
+      "silver":7,
+      "bronze":12, 
+      "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam."
+    }
+    
+  ] ,
+   "sports": [
+    {
+      "id": 1,
+      "name": "Swimming",
+      "gold": 10,
+      "silver": 8,
+      "bronze": 6,
+      "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
+      "medals": 24
+     
+    },
+    {
+      "id": 2,
       "name": "Athletics",
       "gold": 8,
       "silver": 7,
       "bronze": 5,
       "information": "Athletics is a group of sporting events that involves competitive running, jumping, throwing, and walking.",
       "medals": 20
-        }
-      },
-      {
-        "id": 3,
-        "name":"Japan",
-        "gold":20,
-        "silver":12,
-        "bronze":13,
-        "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest",
-             "sport":
-        {
-        "id": 3,
+     
+    },
+    {
+      "id": 3,
       "name": "Gymnastics",
       "gold": 5,
       "silver": 4,
       "bronze": 3,
       "information": "Gymnastics is a sport that includes physical exercises requiring balance, strength, flexibility, agility, coordination, and endurance.",
       "medals": 12
-        }
-      },
-      {
-        "id": 4,
-        "name":"Australia",
-        "gold":18,
-        "silver":19,
-        "bronze":16,
-        "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra",
-            "sport":
-        {
-       "id": 4,
+      
+    },
+    {
+      "id": 4,
       "name": "Cycling",
       "gold": 4,
       "silver": 3,
       "bronze": 2,
       "information": "Cycling, also known as bicycling or biking, is the use of bicycles for transport, recreation, exercise, and sport.",
       "medals": 9
-        }
-      },
-      {
-        "id": 5,
-        "name":"France", 
-        "gold":16,
-        "silver":26,
-        "bronze":22, 
-        "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe",
-               "sport":
-        {
-        "id": 5,
+      
+    },
+    {
+      "id": 5,
       "name": "Basketball",
       "gold": 2,
       "silver": 3,
       "bronze": 1,
       "information": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball.",
       "medals": 6
-        }
-      },
-      {
-        "id": 6,
-        "name":"Netherlands",
-        "gold":15,
-        "silver":7,
-        "bronze":12, 
-        "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam.",
-            "sport":
-        {
-         "id": 6,
+      
+    },
+    {
+      "id": 6,
       "name": "Football",
       "gold": 1,
       "silver": 2,
@@ -108,9 +121,6 @@
       "information": "Football is a team sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport.",
       "medals": 4
       
-        }
-      }
-      
-    ] 
-     
-  }
+    }
+  ]
+}
