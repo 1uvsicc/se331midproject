@@ -25,7 +25,7 @@
         "gold":40,
         "silver":44,
         "bronze":42,
-        "information":"The United States of America ( The United States ) is the capital city of Washington, D.C."，
+        "information":"The United States of America ( The United States ) is the capital city of Washington, D.C.",
            "sports": [
       {
          "id": 2,
@@ -44,7 +44,18 @@
         "gold":20,
         "silver":12,
         "bronze":13,
-        "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest"
+        "information":"Japan (Japan), referred to as Japan, the capital of Tokyo, is an arc of island countries located in the west coast of the Pacific Ocean extending from northeast to southwest",
+           "sports": [
+      {
+     "id": 3,
+      "name": "Gymnastics",
+      "gold": 5,
+      "silver": 4,
+      "bronze": 3,
+      "information": "Gymnastics is a sport that includes physical exercises requiring balance, strength, flexibility, agility, coordination, and endurance.",
+      "medals": 12
+      }
+    ]
       },
       {
         "id": 4,
@@ -52,7 +63,18 @@
         "gold":18,
         "silver":19,
         "bronze":16,
-        "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra"
+        "information":"The Commonwealth of Australia (The Commonwealth of Australia) is referred to as Australia, the capital city of Canberra",
+              "sports": [
+      {
+      "id": 4,
+      "name": "Cycling",
+      "gold": 4,
+      "silver": 3,
+      "bronze": 2,
+      "information": "Cycling, also known as bicycling or biking, is the use of bicycles for transport, recreation, exercise, and sport.",
+      "medals": 9
+      }
+    ]
       },
       {
         "id": 5,
@@ -60,7 +82,18 @@
         "gold":16,
         "silver":26,
         "bronze":22, 
-        "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe"
+        "information":"The French Republic (French: La Republique francaise), the capital of Paris, is located in Western Europe",
+            "sports": [
+      {
+     "id": 5,
+      "name": "Basketball",
+      "gold": 2,
+      "silver": 3,
+      "bronze": 1,
+      "information": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball.",
+      "medals": 6
+      }
+    ]
       },
       {
         "id": 6,
@@ -68,7 +101,18 @@
         "gold":15,
         "silver":7,
         "bronze":12, 
-        "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam."
+        "information":"Kingdom of the Netherlands (Dutch: Koninkrijk der Nederlanden; English: The Kingdom of the Netherlands), short for the Netherlands, the capital of Amsterdam.",
+           "sports": [
+      {
+     "id": 6,
+      "name": "Football",
+      "gold": 1,
+      "silver": 2,
+      "bronze": 1,
+      "information": "Football is a team sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport.",
+      "medals": 4
+      }
+    ]
       }
       
     ],
